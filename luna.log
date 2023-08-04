@@ -1,0 +1,80 @@
+[admin.py:29] - 2023-08-04 22:57:07,049 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-08-04 22:57:07,049 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-08-04 22:57:07,055 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\user\\OneDrive - SUPCOM\\Bureau\\garb\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-08-04 22:57:07,055 - INFO - Running command 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - '"C:\\Users\\user\\OneDrive - SUPCOM\\Bureau\\garb\\Luna-Grabber-main\\builder.pyw"'
+[admin.py:29] - 2023-08-04 22:57:09,404 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,498 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,498 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,498 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-04 22:57:09,499 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:425] - 2023-08-04 23:00:57,707 - INFO - Retrieved filename: KATIBA_GRAB
+[builder.pyw:394] - 2023-08-04 23:00:57,707 - INFO - Changed filetype: pyinstaller
+[builder.pyw:394] - 2023-08-04 23:00:57,707 - INFO - Changed filetype: pyinstaller
+[builder.pyw:445] - 2023-08-04 23:00:57,708 - INFO - Successfully changed config
+[builder.pyw:553] - 2023-08-04 23:00:57,864 - INFO - Successfully obfuscated file: KATIBA_GRAB.py
+[builder.pyw:489] - 2023-08-04 23:01:40,483 - INFO - Successfully compiled KATIBA_GRAB.exe with pyinstaller
+[builder.pyw:456] - 2023-08-04 23:01:41,823 - INFO - Successfully pumped file: KATIBA_GRAB.exe
+[builder.pyw:529] - 2023-08-04 23:01:41,831 - INFO - Successfully removed directory: ./build
+[builder.pyw:538] - 2023-08-04 23:01:41,831 - INFO - Successfully removed file: ./KATIBA_GRAB.py
+[builder.pyw:538] - 2023-08-04 23:01:41,831 - INFO - Successfully removed file: ./KATIBA_GRAB.spec
+[builder.pyw:538] - 2023-08-04 23:01:41,831 - INFO - Successfully removed file: ./tools/upx.exe
+[admin.py:29] - 2023-08-04 23:13:46,789 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-08-04 23:13:46,790 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-08-04 23:13:46,799 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe', 'C:\\Users\\user\\OneDrive - SUPCOM\\Bureau\\garb\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-08-04 23:13:46,799 - INFO - Running command 'C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe' - '"C:\\Users\\user\\OneDrive - SUPCOM\\Bureau\\garb\\Luna-Grabber-main\\builder.pyw"'
+[admin.py:29] - 2023-08-04 23:13:48,573 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,921 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,922 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,922 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,922 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,922 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,922 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,923 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,923 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,923 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,924 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,924 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,924 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,924 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,924 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,925 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,925 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,925 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,926 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,926 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,926 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,926 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,927 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,927 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-08-04 23:13:48,927 - DEBUG - STREAM b'IDAT' 91 1063
+[connectionpool.py:1001] - 2023-08-04 23:15:43,295 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:456] - 2023-08-04 23:15:43,691 - DEBUG - https://discord.com:443 "GET /api/webhooks/1136852229790375976/qr2y8lxjYjqF8J6rg2Q3x5LJ77QZeqsUVdPyKEe4PPxN73fNgicrUkqSTpYEnEV2EAd5 HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-08-04 23:18:00,562 - INFO - Retrieved filename: KATIBA_GRAB
+[builder.pyw:394] - 2023-08-04 23:18:00,562 - INFO - Changed filetype: pyinstaller
+[builder.pyw:394] - 2023-08-04 23:18:00,562 - INFO - Changed filetype: pyinstaller
+[builder.pyw:445] - 2023-08-04 23:18:00,565 - INFO - Successfully changed config
+[builder.pyw:489] - 2023-08-04 23:18:42,204 - INFO - Successfully compiled KATIBA_GRAB.exe with pyinstaller
+[builder.pyw:529] - 2023-08-04 23:18:42,667 - INFO - Successfully removed directory: ./build
+[builder.pyw:538] - 2023-08-04 23:18:42,667 - INFO - Successfully removed file: ./KATIBA_GRAB.py
+[builder.pyw:538] - 2023-08-04 23:18:42,668 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.pyw:538] - 2023-08-04 23:18:42,668 - INFO - Successfully removed file: ./KATIBA_GRAB.spec
